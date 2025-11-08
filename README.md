@@ -17,7 +17,6 @@ It uses **Logistic Regression** and **Random Forest** models trained on **32,000
 **Dataset Name:** Combined Disaster Tweet Dataset  
 **Total Tweets:** 32,228  
 **Sources:** Combined_Tweet_Dataset_Sorted.xls
-**Attributes:**
 
 
 **Categories:**  
